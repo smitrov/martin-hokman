@@ -48,6 +48,7 @@ nav li:first-of-type {
 /* Header */
 header {
 	color: #274060;
+	font-family: "Lato", Helvetica, sans-serif;
 	margin-bottom: 20px;
 	}
 	
@@ -78,7 +79,7 @@ article {
 	
 img {
 	height: 200px;
-	width: 300px;
+	width: 200px;
 	}
 	
 .logo {
@@ -103,6 +104,10 @@ img {
 /* Footer */
 footer {
 	clear: both;
+	}
+	
+section {
+	text-align: center;
 	}
 
 
